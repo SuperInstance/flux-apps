@@ -1,2 +1,8 @@
 # flux-apps
-Real FLUX bytecode applications
+FLUX bytecode applications.
+
+- fibonacci.fb
+- sum.fb  
+- factorial.fb
+
+Related: flux-runtime-c, flux-tools, flux-asm
